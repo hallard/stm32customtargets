@@ -28,6 +28,11 @@
             "MTB_MURATA_ABZ"
         ]
     },
+    "SENTINEL": {
+        "inherits": [
+            "MTB_MURATA_ABZ"
+        ]
+    },
     "STWIN": {
         "inherits": [
             "MCU_STM32L4R9xI"
